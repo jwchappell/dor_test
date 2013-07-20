@@ -1,0 +1,22 @@
+header h1 {
+	text-decoration: underline;
+	text-align: center;
+	font-family:Helvetica;
+}
+#container{
+	width: 880px;
+	margin: 0 auto
+}
+
+#History{
+	color: blue
+}
+
+nav{
+	float:right;
+	color: red
+}
+
+header {border: solid 2px}
+
+
