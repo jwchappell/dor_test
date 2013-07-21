@@ -1,0 +1,4 @@
+dor_test
+========
+
+A TEST OF COMMITTING A SIMPLE FILE
